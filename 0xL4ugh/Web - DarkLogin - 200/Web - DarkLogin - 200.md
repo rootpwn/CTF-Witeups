@@ -93,6 +93,7 @@ I was unable to view the contents of   - [http://40.112.217.104/DarkLogin/796f75
 I tried logging in by changing the post URL in the login page as the given php file and I get the password ( I am not sure why that worked :{ )
 
 ![m.png](m.png)
+
 and I finally get the Flag as 
 
 ![n.png](n.png)
