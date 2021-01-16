@@ -2,7 +2,7 @@
 
 ![a.png](a.png)
 
-After visitng the given URL and inspecting the source code we are given the creds as admin(username), admin(password)
+After visiting the given URL and inspecting the source code we are given the creds as admin(username), admin(password)
 
 After we login
 
