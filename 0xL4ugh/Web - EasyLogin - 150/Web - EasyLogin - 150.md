@@ -6,7 +6,7 @@ After visiting the given URL and inspecting the source code we are given the cre
 
 After we login
 
-![b.png](b.png)
+![c.png](c.png)
 
 Now once we post a new post and inspect the source code, we get a hint which is
 
@@ -22,10 +22,10 @@ So we need to inject the flagHunt tag into the post as
 
 Once we post we get this
 
-![c.png](c.png)
+![d.png](d.png)
 
 and are requested to check the console
 
-![d.png](d.png)
+![b.png](b.png)
 
 Flag - **0xL4ugh{N0_Syst3m_1s_S@f3_3v3n_Y0u}**
